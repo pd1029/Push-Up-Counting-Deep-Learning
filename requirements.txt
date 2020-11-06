@@ -1,5 +1,5 @@
-torch
-torchvision
+flask
 numpy
-python-opencv
-django
+opencv-python
+tensorflow
+distutils
